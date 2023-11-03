@@ -41,4 +41,4 @@ To engage with the project's live demo, go to https://ollyo-task2023.netlify.app
 
 ![Sample Image](./src/assets/images/Medium-Screen.png)
 
-![Sample Image](./src/assets/images/Small Screen)
+![Sample Image](./src/assets/images/Small-Screen.png)
